@@ -24,4 +24,3 @@ Data-driven approaches to customer relationship management.
 
 **How To Use:**
 Clone this repository and open the .pbix file with PowerBI Desktop. Customize filters as per your analytical needs and explore various insights that can drive your business forward.
-
