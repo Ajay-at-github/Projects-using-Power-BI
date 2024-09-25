@@ -1,4 +1,4 @@
-# **Big Basket Sales Insights Dashboard**
+# Big Basket Sales Insights Dashboard
 This repository contains a comprehensive PowerBI dashboard designed to visualize the sales data of Big Basket, one of the leading online grocery delivery services. The dashboard offers an intuitive interface with real-time analytics that empower business decisions through actionable insights.
 
 ## **Features:**
